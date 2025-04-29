@@ -1,5 +1,5 @@
 # Trends-in-CORD-19-Research
-This repository contains the full code, datasets, and models used for the MSc Data Science final project:  
+This repository contains the full code and models used for the MSc Data Science final project:  
 **"Analysing Trends and Knowledge Gaps in COVID-19 Research"**
 ## 🤝 Contributing  
 Pull requests are welcome if you'd like to extend this project to other domains.
